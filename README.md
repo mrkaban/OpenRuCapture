@@ -1,0 +1,2 @@
+# OpenRuCapture
+Скриншот экрана Windows

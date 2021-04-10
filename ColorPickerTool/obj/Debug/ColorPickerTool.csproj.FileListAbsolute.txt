@@ -1,0 +1,8 @@
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\ColorPickerTool.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\ColorPickerTool.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\ColorPickerTool\obj\Debug\ColorPickerTool.ColorPickerUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\ColorPickerTool\obj\Debug\ColorPickerTool.Properties.Resources.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\ColorPickerTool\obj\Debug\ColorPickerTool.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\OpenRuCapture\ColorPickerTool\obj\Debug\ColorPickerTool.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\ColorPickerTool\obj\Debug\ColorPickerTool.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\ColorPickerTool\obj\Debug\ColorPickerTool.csprojResolveAssemblyReference.cache

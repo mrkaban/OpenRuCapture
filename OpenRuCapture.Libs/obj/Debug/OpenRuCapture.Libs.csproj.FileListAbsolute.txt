@@ -1,0 +1,5 @@
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\OpenRuCapture.Libs.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\OpenRuCapture.Libs.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture.Libs\obj\Debug\OpenRuCapture.Libs.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture.Libs\obj\Debug\OpenRuCapture.Libs.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture.Libs\obj\Debug\OpenRuCapture.Libs.csprojResolveAssemblyReference.cache

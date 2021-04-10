@@ -1,0 +1,14 @@
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\license.rtf
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\OpenRuCapture.exe.config
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\OpenRuCapture.exe
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\OpenRuCapture.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.Capturemodes.FixedRegion.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.Capturemodes.frmOverlay.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.Capturemodes.frmScheduled.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.Capturemodes.frmWindowCapture.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.frmSettings.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.Properties.Resources.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.exe
+C:\Users\Алексей\Desktop\OpenRuCapture\OpenRuCapture\obj\x86\Debug\OpenRuCapture.pdb

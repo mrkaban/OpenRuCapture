@@ -1,0 +1,13 @@
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\SendToPlugins.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\SendToPlugins.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.CommonAuthDialog.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.SendToFacebookUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.SendToFTPServerUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\OpenRuCapture.Plugins.SendToImgurUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.SendToSkydriveUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.SkydriveAuth.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.WaterMarkerUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\SendToPlugins\obj\Debug\SendToPlugins.pdb

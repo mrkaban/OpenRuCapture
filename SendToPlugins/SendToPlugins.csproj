@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D7FEF16-7440-4727-8D3F-3DA7C1DE2889}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SendToPlugins</RootNamespace>
+    <AssemblyName>SendToPlugins</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplyWaterMark.cs" />
+    <Compile Include="CommonAuthDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonAuthDialog.Designer.cs">
+      <DependentUpon>CommonAuthDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OAuthBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendToFacebookUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendToFacebookUI.Designer.cs">
+      <DependentUpon>SendToFacebookUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendToFTPServer.cs" />
+    <Compile Include="SendToFTPServerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendToFTPServerUI.Designer.cs">
+      <DependentUpon>SendToFTPServerUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendToImgur.cs" />
+    <Compile Include="SendToImgurUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendToImgurUI.Designer.cs">
+      <DependentUpon>SendToImgurUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendToPrinter.cs" />
+    <Compile Include="SendToSkydriveUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendToSkydriveUI.Designer.cs">
+      <DependentUpon>SendToSkydriveUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendToTwitter.cs" />
+    <Compile Include="SkydriveAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkydriveAuth.Designer.cs">
+      <DependentUpon>SkydriveAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UploadToSkydrive.cs" />
+    <Compile Include="Watermarker.cs" />
+    <Compile Include="WaterMarkerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaterMarkerUI.Designer.cs">
+      <DependentUpon>WaterMarkerUI.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OpenRuCapture.Libs\OpenRuCapture.Libs.csproj">
+      <Project>{D91F07E7-2624-4E07-9C34-022F79D143BF}</Project>
+      <Name>OpenRuCapture.Libs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CommonAuthDialog.resx">
+      <DependentUpon>CommonAuthDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendToFacebookUI.resx">
+      <DependentUpon>SendToFacebookUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendToFTPServerUI.resx">
+      <DependentUpon>SendToFTPServerUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendToImgurUI.resx">
+      <DependentUpon>SendToImgurUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendToSkydriveUI.resx">
+      <DependentUpon>SendToSkydriveUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkydriveAuth.resx">
+      <DependentUpon>SkydriveAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaterMarkerUI.resx">
+      <DependentUpon>WaterMarkerUI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

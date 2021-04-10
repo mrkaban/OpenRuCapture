@@ -1,0 +1,9 @@
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\ImageEditor.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\ImageEditor.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.frmInsertText.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.FrmMainUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\ImageEditor\obj\x86\Debug\ImageEditor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\GIFBuilder.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\Output\GIFBuilder.pdb
+C:\Users\Алексей\Desktop\OpenRuCapture\GIFBuilder\obj\Debug\GIFBuilder.GIFBuilderUI.resources
+C:\Users\Алексей\Desktop\OpenRuCapture\GIFBuilder\obj\Debug\GIFBuilder.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\OpenRuCapture\GIFBuilder\obj\Debug\GIFBuilder.dll
+C:\Users\Алексей\Desktop\OpenRuCapture\GIFBuilder\obj\Debug\GIFBuilder.pdb
